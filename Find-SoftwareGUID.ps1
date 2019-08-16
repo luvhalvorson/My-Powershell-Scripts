@@ -1,4 +1,5 @@
 function Find-SoftwareGUID {
+# Modified from https://4sysops.com/archives/find-the-product-guid-of-installed-software-with-powershell/
     <#
         Get-InstalledSoftware
         Get-InstalledSoftware -name Python
